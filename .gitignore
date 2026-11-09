@@ -1,0 +1,40 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.out
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+core
+core.*
+
+# FPGA / EDA temporary outputs
+*.jou
+*.str
+*.wdb
+*.wcfg
+
+# OpenROAD generated databases and intermediate files
+*.odb
+*.def
+*.sdf
+*.spef
+*.lib
+*.blif
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+git init
+
